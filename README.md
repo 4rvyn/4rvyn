@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Arvin+Parvizinia;EE+%40+RWTH+Aachen;Embedded+Design+%7C+Sensor+Fusion" alt="intro-typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Arvin+Parvizinia;EE+%26+IT+%40+RWTH+Aachen+Univ.;Embedded+Firmware+%7C+Sensor+Fusion" alt="intro-typing" />
 </p>
 
 <div align="center">
 
 <p>
-  Turning sensor data into motion | B.Sc. EE ’25 | Aachen<br/>
-  <b>Thesis:</b> Multisensory Exoskeleton Shoe (Grade 1.0 / A+)
+  Turning sensor data into motion! | B.Sc. EE & IT ’25 | Aachen<br/>
 </p>
 
 <br>
 
 <p>
-  I’m uploading a variety of projects I’ve coded throughout my studies — mostly in Python or C++. I built these tools to automate tasks or solve challenges when I found no satisfying solutions online, ranging from web scrapers to custom GUIs. I will be uploading anything that I believe others might find useful. Work in progress!
+  I’m uploading a variety of projects I’ve coded throughout my studies — mostly in Python or C++. I built these tools to automate tasks or solve challenges when I found no satisfying solutions online, ranging from custom EE Tools all the way to web scrapers and custom GUIs. I will upload anything that I believe others might find useful.
 </p>
 
 <br>
