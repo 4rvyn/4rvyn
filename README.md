@@ -5,13 +5,13 @@
 <div align="center">
 
 <p>
-  Turning sensor data into motion! | B.Sc. EE & IT ’25 | Aachen<br/>
+  Turning sensor data into motion. | B.Sc. EE & IT ’25 | Aachen<br/>
 </p>
 
 <br>
 
 <p>
-  I’m uploading a variety of projects I’ve coded throughout my studies — mostly in Python or C++. I built these tools to automate tasks or solve challenges when I found no satisfying solutions online, ranging from custom EE Tools all the way to web scrapers and custom GUIs. I will upload anything that I believe others might find useful.
+  I’m uploading a variety of projects I’ve coded throughout my studies. I built these tools to automate tasks or solve challenges when I found no satisfying solutions online, ranging from custom EE Tools all the way to web scrapers and custom GUIs. I will upload anything that I believe others might find useful.
 </p>
 
 <br>
