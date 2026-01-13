@@ -7,7 +7,9 @@
 
 
 <p>
-  I’m uploading a variety of projects I’ve coded personally and throughout my studies. I built these tools to automate tasks when I found no satisfying solutions online. Im uploading anything that I believe others might find useful.
+  A mix of personal code and uni work.<br>
+  I mainly built these tools when I got annoyed that a solution didn't exist yet.<br>
+  Hope you find something!
 </p>
 
 <br>
