@@ -8,8 +8,8 @@
 
 <p>
   A mix of personal code and uni work.<br>
-  I mainly built these tools when I got annoyed that a solution didn't exist yet.<br>
-  Hope you find something!
+  I mainly built these tools when I got annoyed that a proper solution didn't exist online.<br>
+  Hope you find something of use!
 </p>
 
 <br>
