@@ -8,14 +8,13 @@
 
 <p>
   A mix of personal code and uni work.<br>
-  I mainly built these tools when I got annoyed that a proper solution didn't exist online.<br>
-  Hope you find something of use!
+  Hope you find something useful!
 </p>
 
 <br>
 
-<h3>Coding Toolbox</h3>
+<h3>Toolbox</h3>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,qt,html,md,latex,vscode,arduino&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,rust,c,matlab,qt,html,latex&perline=11" />
 
 </div>
